@@ -58,6 +58,12 @@ Awesome communities and users on the American technology company 𝕏.
 
 ## Music
 
+## Movie
+
+## Art
+
+## Politics
+
 ## Gaming
 
 ## Sports
