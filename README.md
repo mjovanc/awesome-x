@@ -54,9 +54,14 @@ Awesome communities and users on the American technology company 𝕏.
 
 ## Machine Learning, Deep Learning and Artificial Intelligence
 
+- [Machine Learning](https://twitter.com/i/communities/1509381007950204928)
 - [MLOps](https://twitter.com/i/communities/1509479968895610881)
+- [Generative AI • ChatGPT](https://twitter.com/i/communities/1601841656147345410)
+- [Natural Language Processing](https://twitter.com/i/communities/1512152077476237313)
 
 ## Science
+
+- [Science](https://twitter.com/i/communities/1473400180514906114)
 
 ## Music
 
@@ -64,15 +69,22 @@ Awesome communities and users on the American technology company 𝕏.
 
 ## Art
 
+- [The Design Sphere](https://twitter.com/i/communities/1453877367030484992)
+
 ## Politics
 
 ## Gaming
+
+- [Diablo IV](https://twitter.com/i/communities/1669812973492158466)
 
 ## Sports
 
 ## Crypto
 
 ## Business, Economics and Finance
+
+- [X Finance](https://twitter.com/i/communities/1506800881525829633)
+- [Stock Market & Finance on X](https://twitter.com/i/communities/1506780034555592704)
 
 # Users
 
