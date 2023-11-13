@@ -54,6 +54,8 @@ Awesome communities and users on the American technology company 𝕏.
 
 ## Machine Learning, Deep Learning and Artificial Intelligence
 
+- [MLOps](https://twitter.com/i/communities/1509479968895610881)
+
 ## Science
 
 ## Music
