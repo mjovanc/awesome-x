@@ -1,4 +1,4 @@
-[![X](https://seeklogo.com//images/T/twitter-x-logo-577BCAE525-seeklogo.com.png?v=638264860160000000)](https://github.com/mjovanc/awesome-x){:height="36px"}
+[<img src="https://seeklogo.com//images/T/twitter-x-logo-577BCAE525-seeklogo.com.png?v=638264860160000000" width="50" alt="X">](https://github.com/mjovanc/awesome-x) Awesome 𝕏
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
