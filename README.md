@@ -8,8 +8,6 @@ Awesome communities and users on the American technology company 𝕏.
 
 ## Programming
 
-- [Software Engineering](https://twitter.com/i/communities/1699807431709041070)
-
 ### Languages
 
 - [Java](https://twitter.com/i/communities/1722164793946063184)
@@ -41,6 +39,7 @@ Awesome communities and users on the American technology company 𝕏.
 
 ### Other
 
+- [Software Engineering](https://twitter.com/i/communities/1699807431709041070)
 - [Progressive Web Apps Community](https://twitter.com/i/communities/1457807184436334608)
 - [OpenAPI](https://twitter.com/i/communities/1482061816792371200)
 - [Open Source Software](https://twitter.com/i/communities/1498424846052638726)
