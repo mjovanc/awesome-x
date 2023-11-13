@@ -51,7 +51,21 @@ Awesome communities and users on the American technology company 𝕏.
 - [Web Developers](https://twitter.com/i/communities/1488952693443997701)
 - [dotnet](https://twitter.com/i/communities/1488624124817666051)
 - [iOS Dev Community](https://twitter.com/i/communities/1508884825905770496)
-  
+
+## Machine Learning, Deep Learning and Artificial Intelligence
+
+## Science
+
+## Music
+
+## Gaming
+
+## Sports
+
+## Crypto
+
+## Business, Economics and Finance
+
 # Users
 
 We restrict adding users below 10k followers for now, do not add yourself. 
