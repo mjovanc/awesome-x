@@ -1,4 +1,4 @@
-# [![X](https://avatars.githubusercontent.com/u/28214161?s=40&v=4.svg)](https://github.com/ktorio/ktor) Awesome 𝕏
+# [![X](https://seeklogo.com//images/T/twitter-x-logo-577BCAE525-seeklogo.com.png?v=638264860160000000)](https://github.com/mjovanc/awesome-x) Awesome 𝕏
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
