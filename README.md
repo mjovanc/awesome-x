@@ -1,4 +1,4 @@
-[<img src="https://seeklogo.com//images/T/twitter-x-logo-577BCAE525-seeklogo.com.png?v=638264860160000000" width="50" alt="X">](https://github.com/mjovanc/awesome-x)
+[<img src="https://seeklogo.com//images/T/twitter-x-logo-577BCAE525-seeklogo.com.png?v=638264860160000000" width="100" alt="X">](https://github.com/mjovanc/awesome-x)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
