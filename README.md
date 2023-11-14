@@ -63,6 +63,10 @@ Awesome communities and users on the American technology company 𝕏.
 
 - [Science](https://twitter.com/i/communities/1473400180514906114)
 
+## Outdoor
+
+- [Fly Fishing](https://twitter.com/i/communities/1676200633299247105)
+
 ## Music
 
 ## Movie
